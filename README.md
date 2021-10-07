@@ -1,2 +1,8 @@
 # pgDacSep21
-pg dac sept 2021 batch git classes
+#include <stdio.h>
+int main ()
+{
+    printf("Hello mam Good morning this is prathamesh");
+    return 0;
+
+}
